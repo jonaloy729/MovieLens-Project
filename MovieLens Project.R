@@ -1,7 +1,7 @@
 ## Loy Jong Sheng
 ## MovieLens Project.R 
 ## HarvardX PH125.9x Data Science: Capstone - MovieLens Project
-## title: MovieLen
+## title: MovieLens
 ## date: 10/17/2020
 ##############################################################
 # MovieLens Project R Script 
